@@ -1,0 +1,26 @@
+@charset "UTF-8";
+	form{
+		 width:350px;
+		margin:0 auto; 
+	}
+	label{
+		width:80px;
+		display:inline-block;
+		text-align:center;
+		margin-top:20px;
+	}
+	.form-group{
+		margin-top:20px;
+	}
+	.title{
+		margin:0 auto;
+		width:120px;
+	}
+	.form-control{
+		max-width:400px;
+	}
+	.btn{
+		margin-left:80px;
+		margin-top:25px;
+		width:200px;
+	}

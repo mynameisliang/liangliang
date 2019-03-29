@@ -1,0 +1,37 @@
+.center{
+	margin-top: 70px;
+}
+.header{
+	text-align: center;
+	font-size: 20px;
+	
+}
+.xglogo{
+	display: block;
+	height: 51px;
+	width:60px;
+	background: url(../img/whead.png) no-repeat ;
+	margin: 10px auto;
+}
+
+.text{
+	padding-left: 50px;
+	display: inline-block;
+	text-align: left;
+	margin-top: 120px;
+	min-height: 600px;
+	color: gray;
+	font-size: 1.5rem;
+}
+.text span{
+	font-size: 1.2rem;
+	display: inline-block;
+	width: 50%;
+	min-width: 400px;
+}
+.text p{
+	font-size: 1.2rem;
+	margin-top: 5px;
+	line-height: 1.8rem;
+	
+}
